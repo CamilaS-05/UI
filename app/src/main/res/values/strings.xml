@@ -1,0 +1,16 @@
+<resources>
+    <!-- res/values/strings.xml -->
+    <string name="app_name">MEETDEVS</string>
+    <string name="subtitle">Codign with love</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="name_hint">Nombre</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_hint">Confirmar Contraseña</string>
+    <string name="upload_photo">Imagen</string>
+    <string name="condiciones">De acuerdo con los términos y condiciones</string>
+    <string name="allow_geolocation">Permitir Localización</string>
+    <string name="terms_conditions">De acuerdo con los términos y condiciones</string>
+    <string name="register">Registrar</string>
+    <string name="reset">Reiniciar</string>
+
+</resources>
